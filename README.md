@@ -11,4 +11,4 @@ Energy-Usage-Calculator
 1. Languages Used: HTML 5, CSS 3, JavaScript, AngularJS
 2. Tool Used: Atom 
 
-## Instructions:
+
